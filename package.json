@@ -1,0 +1,11 @@
+{
+  "name": "fs-conference-site",
+  "version": "1.0.0",
+  "description": "Simple marketing site for FS conference 2018",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Hackett",
+  "license": "ISC"
+}
